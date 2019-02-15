@@ -1,0 +1,22 @@
+{
+  "name": "ham-and-cheese",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwtoh/ham-and-cheese.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kwtoh/ham-and-cheese/issues"
+  },
+  "homepage": "https://github.com/kwtoh/ham-and-cheese#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
