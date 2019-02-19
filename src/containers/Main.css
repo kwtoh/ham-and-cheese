@@ -1,0 +1,65 @@
+.App-Left {
+  background-color: #2C3E50;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(5vh + 2vmin);
+  color: white;
+}
+
+.App-Left > h1 {
+	margin-left: auto;
+}
+
+.App-Right {
+  background-color: #ECF0F1;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(5vh + 2vmin);
+  color: #2C3E50;
+}
+
+.App-Right > h1 {
+	margin-right: auto;
+}
+
+i {
+	font-size: 48px;
+}
+
+.Border-Left {
+  background-color: #2C3E50;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(5vh + 2vmin);
+  color: white;
+}
+
+.Border-Left > i {
+	margin-right: auto;
+	padding-left: 10px;
+}
+
+.Border-Right {
+  background-color: #ECF0F1;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(5vh + 2vmin);
+  color: #2C3E50;
+}
+
+.Border-Right > i {
+	margin-left: auto;
+	padding-right: 10px;
+}
