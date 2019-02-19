@@ -1,0 +1,15 @@
+.App-Right {
+  background-color: #ECF0F1;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(5vh + 2vmin);
+  color: #2C3E50;
+}
+
+.Right-Feed {
+  margin-right: auto;
+  transition: transform 0.5s;
+}
